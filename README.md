@@ -134,7 +134,3 @@ https://discord.gg/YTCHWAap2z
 ## ❤️ Contributing & Infos
 
 This is one of my first plugins, so feedback, tips, and suggestions are always welcome!
-
----
-
-Wenn dein Plugin z.B. **Home Limits, Cooldowns oder Delays** hat, kann ich dir das noch mit reinbauen – sag einfach Bescheid 👀
