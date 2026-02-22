@@ -53,9 +53,3 @@ Found a bug?
 Please include plugin version, Minecraft version & server software
 and open a ticket on our Discord:
 https://discord.gg/YTCHWAap2z
-
----
-
-## ❤️ Contributing & Infos
-
-This is one of my first plugins, so feedback, tips, and suggestions are always welcome!
