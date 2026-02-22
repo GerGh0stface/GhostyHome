@@ -1,11 +1,5 @@
 # 🏠 GhostyHome
 
-![Minecraft Version](https://img.shields.io/badge/Minecraft-1.21--1.21.11-blue)
-![Server](https://img.shields.io/badge/Server-Paper%20%7C%20Spigot-green)
-![Plugin Type](https://img.shields.io/badge/Type-Home-orange)
-![Language](https://img.shields.io/badge/Lang-EN%20%7C%20DE-red)
-![Performance](https://img.shields.io/badge/Performance-Lightweight-brightgreen)
-
 > Lightweight home management plugin for **Survival & SMP servers**.
 Supports **Minecraft 1.21 – 1.21.11** (Paper & Spigot).
 
