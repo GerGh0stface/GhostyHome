@@ -1,6 +1,6 @@
 # 🏠 GhostyHome
 
-> Lightweight home management plugin for **Survival & SMP servers**.
+> Lightweight home management plugin for all type of Minecraft Servers.
 Supports **Minecraft 1.21 – 1.21.11** (Paper & Spigot).
 
 ---
